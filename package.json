@@ -1,0 +1,23 @@
+{
+  "name": "readthepantheons",
+  "version": "1.0.0",
+  "description": "Website for The Pantheons book series - Book 1: In The Beginning",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8000 -o",
+    "dev": "npx http-server -p 8000 -o",
+    "serve": "npx http-server -p 8000"
+  },
+  "keywords": [
+    "book",
+    "website",
+    "pantheons",
+    "fantasy",
+    "literature"
+  ],
+  "author": "ReadThePantheons",
+  "license": "UNLICENSED",
+  "devDependencies": {},
+  "dependencies": {}
+}
+
