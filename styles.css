@@ -1117,6 +1117,10 @@ section {
     gap: 20px;
     padding: 40px 104px;
 }
+.footer .footer-bar {
+    max-width: var(--container-max-width);
+    margin: 0 auto;
+}
 
 .footer-copy {
     font-size: 14px;
