@@ -150,7 +150,7 @@ body.menu-open {
     align-items: center;
     justify-content: center;
     width: 48px;
-    height: 44px;
+    height: 48px;
     padding: 0.4rem;
     border-radius: 8px;
     border: 1px solid rgba(255, 255, 255, 0.4);
@@ -1670,7 +1670,11 @@ section {
     }
 
     .menu-toggle {
-        width: 100%;
-        justify-content: flex-start;
+        width: 48px;
+        height: 48px;
+        justify-content: center;
     }
 }
+    .world-subtitle {
+        font-size: 1.35rem;
+    }
